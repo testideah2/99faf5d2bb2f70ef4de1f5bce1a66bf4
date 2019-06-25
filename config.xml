@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.payfull.app"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. payfull.ru</name>
+<name>payfull.ru</name>
 
 <description>
     Платформа PayFull создана группой единомышленников для оказания качественных услуг по обмену электронных валют в удобном для клиента формате. Мы предлагаем единый и простой порядок обменных операций.
